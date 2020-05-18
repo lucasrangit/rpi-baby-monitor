@@ -1,7 +1,8 @@
 # Hardware
 
 * INMP441 MEMS I2S Mono Microphone
-   * https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
+   * https://www.pcbway.com/project/gifts_detail/Microphone_Module_I2S_Interface_Inmp441_Mems_High_Precision_Low_Power_Ultra_Small_Volume.html
+   * datasheet: https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
 * Raspberry Pi 2B, Zero W
 * Raspberry Pi CSI Camera 1.3
 * Raspberry Pi IR Cut Filter 5MP OV5647 CSI Camera

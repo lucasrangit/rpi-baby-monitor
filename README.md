@@ -29,6 +29,7 @@ Reference: https://www.linux-projects.org/uv4l/webrtc-extension/
 
 1. `sudo vim /boot/config.txt`
 1. Uncomment `dtoverlay=i2s=on`
+1. `sudo reboot`
 
 ## Setup Audio Microphone
 
@@ -46,6 +47,10 @@ Reference: https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout?view
 1. `echo "snd-i2smic-rpi" | sudo tee /etc/modules-load.d/snd-i2smic-rpi.conf`
 1. `vim ~/.asoundrc`
 1. See guide for contents
+1. `sudo reboot`
+
+## Test Audio Recording
+
 1. `arecord -D dmic_sv -c2 -r 44100 -f S32_LE -t wav -V stereo -v file.wav`
 
 # References

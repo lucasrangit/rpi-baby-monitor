@@ -3,10 +3,13 @@
 * INMP441 MEMS I2S Mono Microphone
    * https://www.pcbway.com/project/gifts_detail/Microphone_Module_I2S_Interface_Inmp441_Mems_High_Precision_Low_Power_Ultra_Small_Volume.html
    * datasheet: https://invensense.tdk.com/wp-content/uploads/2015/02/INMP441.pdf
-* Raspberry Pi 2B, Zero W
+* Raspberry Pi Zero W 1.1
 * Raspberry Pi CSI Camera 1.3
 * Raspberry Pi IR Cut Filter 5MP OV5647 CSI Camera
    * https://www.arducam.com/product/arducam-m12-night-vision-ir-cut-raspberry-pi-camera/
+* Enclosure (need to combine/customize the following to include microphone holes)
+   * https://www.thingiverse.com/thing:3210190
+   * https://www.instructables.com/id/Day-and-Night-View-Live-Stream-Cam/
 
 ## Setup
 
